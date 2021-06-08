@@ -1,6 +1,6 @@
-import './button.css';
+import './model-viewer.css';
 
-export const createButton = ({
+export const createViewer = ({
   primary = false,
   size = 'medium',
   backgroundColor,

@@ -1,7 +1,7 @@
-import { createButton } from './Button';
+import { createViewer } from './ModelViewer';
 
 export default {
-  title: 'Example/Button',
+  title: 'Example/ModelViewer',
   argTypes: {
     label: { control: 'text' },
     primary: { control: 'boolean' },
